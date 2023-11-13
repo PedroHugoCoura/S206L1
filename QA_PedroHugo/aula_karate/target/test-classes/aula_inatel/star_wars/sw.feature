@@ -10,3 +10,4 @@ Scenario: Testando retorno people/1/ com informações inválidas.
         When method get
         Then status 404
         
+        
